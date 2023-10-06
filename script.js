@@ -67,7 +67,7 @@ function facebookken() {
   window.open(facebookUrl);
 }
 function instagramken() {
-  const instagramUrl = `https://www.instagram.com/colorless.knt`;
+  const instagramUrl = `https://www.instagram.com/knt.scz/`;
   window.open(instagramUrl);
 }
 function linkedinken() {
