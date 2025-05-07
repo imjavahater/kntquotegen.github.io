@@ -55,6 +55,11 @@ async function getQuotes() {
         // Catch Error 
     }
   }
+//Dark-mode
+document.getElementById('theme-toggle').addEventListener('click', () => {
+  document.body.classList.toggle('dark-mode');
+});
+
 
 // Quote Tweet
 function tweetQuote() {
